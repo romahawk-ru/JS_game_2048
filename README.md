@@ -1,1 +1,1 @@
-# JS_game_2048
+# JS - Game 2048 on pure "vanilla" JavaScript
